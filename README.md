@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python HTML CSS**
 
-- 📫 How to reach me **rifat.mahamud.mukul@gmail.com**
+- 📫 How to reach me **rifatmukul8617@gmail.com**
 
 - ⚡ Fun fact **I once deciphered a cryptic message encoded in binary. Data speaks, and I'm its interpreter! 🌐🔒💬**
 
