@@ -1,28 +1,24 @@
 
-<h1 align="center">Hi 👋, I'm Rifat Mukul</h1>
-<h3 align="center">Building Secure Connections and Defending the Digital Frontier</h3>
+<h1 align="center">Hi, I'm Rifat Mukul</h1>
+<h3 align="center">Aspiring Data Scientist & Software Engineer | Exploring Machine Learning and Scalable Solutions</h3>
 
-<p align="left"> <a href="https://twitter.com/mukul_1007" target="blank"><img src="https://img.shields.io/twitter/follow/Rifat Mukul?logo=twitter&style=for-the-badge" alt="mukul_1007" /></a> </p>
-
-- 🌱 I’m currently learning **CSS JavaScript**
-
-- 💬 Ask me about **Python HTML CSS**
-
-- 📫 How to reach me **rifatmukul8617@gmail.com**
-
-- ⚡ Fun fact **I once deciphered a cryptic message encoded in binary. Data speaks, and I'm its interpreter! 🌐🔒💬**
+- 🔭 I’m currently working with **Python, SQL, HTML, and CSS**  
+- 🌱 I’m currently learning **Django, Java, and C**  
+- 📫 Reach me at **rifatmukul8617@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mukul_1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukul_1007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rifat-mahamud-mukul-6a98ba293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rifat-mahamud-mukul-6a98ba293/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077431969783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077431969783" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/rifat-mukul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rifat-mukul" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rifat-mahamud-mukul-6a98ba293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/mukul_1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rifat-mukul&show_icons=true&locale=en&layout=compact" alt="rifat-mukul" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rifat-mukul&show_icons=true&locale=en" alt="rifat-mukul" /></p>
+<p align="left">
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/> </a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+</p>
