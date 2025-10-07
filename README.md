@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi, I'm Rifat Mukul</h1>
-<h3 align="center">Aspiring Data Scientist & Software Engineer | Exploring Machine Learning and Scalable Solutions</h3>
-
-- 🔭 I’m currently working with **Python, SQL, HTML, and CSS**  
-- 🌱 I’m currently learning **Django, Java, and C**  
+  
 - 📫 Reach me at **rifatmukul8617@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
